@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Scipline&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Scipline&show_icons=true&icon_color=CE1D2D&text_color=718096&theme=default&hide_title=true">
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scipline&layout=compact">
 
