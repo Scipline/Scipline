@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 🎓 Electronic Information Major
+- 🎓 Communication Engineering Major
 - 👍 JavaScript & TypeScript
 - 🎯 Self-taught front end Web technology
 - 💖 *Infinite Progress*
